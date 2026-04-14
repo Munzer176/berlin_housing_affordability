@@ -1,0 +1,13 @@
+district_name,avg_monthly_income_eur,median_monthly_income_eur,unemployment_rate_pct,population,transfer_income_share_pct
+Mitte,1850,1650,12.8,384000,22.5
+Friedrichshain-Kreuzberg,1900,1750,9.2,289000,16.8
+Pankow,2200,2050,6.5,413000,9.5
+Charlottenburg-Wilmersdorf,2400,2200,7.8,342000,11.2
+Spandau,1700,1550,11.5,245000,18.5
+Steglitz-Zehlendorf,2600,2400,5.2,310000,7.0
+Tempelhof-Schöneberg,2100,1950,8.3,351000,13.5
+Neukölln,1650,1500,14.1,329000,24.0
+Treptow-Köpenick,2050,1900,7.0,274000,10.5
+Marzahn-Hellersdorf,1750,1600,10.8,269000,17.0
+Lichtenberg,1800,1650,9.5,296000,14.5
+Reinickendorf,1800,1650,10.2,265000,16.0
