@@ -146,8 +146,11 @@ Berlin_Housing_Final/
 
 ## Presentation
 The final project also includes:
-- a Google Slides presentation
-- a Tableau story for interactive visual storytelling
+- Google Slides Presentation: https://docs.google.com/presentation/d/1Y075rYGgMrd-GY0u3WZmklJ6AkrSSlTDkZG8H1cnX9Y/edit?usp=sharing
+
+- Tableau Public Story: https://public.tableau.com/app/profile/munzer.al.awad/viz/WhoCanStillAffordBerlin/Story1
+
+- GitHub Repository: https://github.com/Munzer176/berlin_housing_affordability
 
 ---
 
