@@ -148,7 +148,7 @@ Berlin_Housing_Final/
 The final project also includes:
 - Google Slides Presentation: https://docs.google.com/presentation/d/1Y075rYGgMrd-GY0u3WZmklJ6AkrSSlTDkZG8H1cnX9Y/edit?usp=sharing
 
-- Tableau Public Story: https://public.tableau.com/app/profile/munzer.al.awad/viz/WhoCanStillAffordBerlin/Story1
+- Tableau Public Story: https://public.tableau.com/app/profile/munzer.al.awad/viz/WhoCanStillAffordBerlin/BerlinHousingAffordability
 
 - GitHub Repository: https://github.com/Munzer176/berlin_housing_affordability
 
